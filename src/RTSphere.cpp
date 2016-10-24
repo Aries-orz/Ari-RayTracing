@@ -1,5 +1,5 @@
 #include "RTSphere.h"
-#include <math.h>
+#include <cmath>
 
 namespace rt {
 

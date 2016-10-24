@@ -6,6 +6,7 @@ namespace rt {
 
 class Ray {
 public:
+    //the origin and direction of the ray
 	Vec3d o, d;
 
 	Ray();

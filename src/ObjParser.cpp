@@ -1,7 +1,7 @@
 #include "ObjParser.h"
-#include <string.h>
+#include <cstring>
 #include <vector>
-#include <stdio.h>
+#include <cstdio>
 
 namespace rt {
     

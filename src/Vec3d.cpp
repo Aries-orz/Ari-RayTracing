@@ -1,5 +1,5 @@
 #include "Vec3d.h"
-#include <math.h>
+#include <cmath>
 
 namespace rt {
 

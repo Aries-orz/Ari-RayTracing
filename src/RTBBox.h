@@ -6,7 +6,7 @@
 
 namespace  rt {
 
-    class RTBBox : public RTObject {
+class RTBBox : public RTObject {
 public:
     Vec3d p0, p1;
     

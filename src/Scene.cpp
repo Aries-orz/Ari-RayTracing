@@ -1,5 +1,5 @@
 #include "Scene.h"
-#include <stdio.h>
+#include <cstdio>
 
 namespace rt {
     
