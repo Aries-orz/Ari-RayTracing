@@ -32,7 +32,7 @@ test_data文件夹中有一些从网上下载的obj模型文件。程序执行�
 * CPU：i7-4770K，主频3.5GHz，四核八线程
 * OS：Ubuntu 14.04 LTS
 * Compiler：gcc 4.8.4
-* 参数：5000 （每次采样取5000/4=1250条样本光线）
+* 参数：5000
 * 运行时间：14小时左右
 
 ![pic](http://aries-orz.com/blog/wp-content/uploads/2016/07/result-520x390.jpg)
