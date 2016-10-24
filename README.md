@@ -17,7 +17,7 @@ This is a global illumination renderer via unbiased Monte Carlo ray tracing, and
 
 * Linux环境下，在Makefile所在目录直接make即可；
 * Mac OS环境下，修改Makefile文件，注释掉与OpenMP相关的命令（Apple Clang暂不支持OpenMP），再make即可；
-* Windows环境下，即可通过Makefile来编译链接，也可通过将源代码导入IDE然后自己配制编译链接参数（主要是加入OpenMP相关库和命令）来完成。
+* Windows环境下，既可通过Makefile来编译链接，也可通过将源代码导入IDE然后自己配制编译链接参数（主要是加入OpenMP相关库和命令）来完成。
 
 test_data文件夹中有一些从网上下载的obj模型文件。程序执行方式为：
 
