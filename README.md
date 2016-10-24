@@ -29,8 +29,9 @@ test_data文件夹中有一些从网上下载的obj模型文件。程序执行�
 ## Demo
 下图为Demo.cpp运行得到的结果（注：最终生成结果为ppm格式图片，在Linux中可直接查看，Windows下可用PS打开或用在线转换工具转成jpg格式）。其中该Demo所使用的运行环境为：
 
-* OS： Ubuntu 14.04 LTS
 * CPU：i7-4770K，主频3.5GHz，四核八线程
+* OS：Ubuntu 14.04 LTS
+* Compiler：gcc 4.8.4
 * 参数：5000 （每次采样取5000/4=1250条样本光线）
 * 运行时间：14小时左右
 ![pic](http://aries-orz.com/blog/wp-content/uploads/2016/07/result.jpg)
