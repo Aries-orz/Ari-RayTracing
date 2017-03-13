@@ -23,7 +23,7 @@ This is a global illumination renderer via unbiased Monte Carlo ray tracing, and
 test_data文件夹中有一些从网上下载的obj模型文件。程序执行方式为：
 
 ```Bash
-    ./AriesRT [spp]
+    $ ./AriesRT [spp]
 ```
 
 其中spp（samples per pixel）指每个像素点的取样数，缺省值为4。
