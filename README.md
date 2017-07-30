@@ -1,5 +1,5 @@
 
-This is a global illumination renderer via unbiased Monte Carlo ray tracing, and was written based on the program smallpt. It can read and process standard .obj format files.
+This is a global illumination renderer through unbiased Monte Carlo ray tracing, and was written based on the program smallpt. It can read and process standard .obj format files.
 
 ## Introduction
 这是一个基于无偏差蒙特卡洛光线追踪的全局光照渲染器，部分代码参考smallpt实现。它能直接读取并处理.obj后缀格式的标准模型文件，并进行渲染。
