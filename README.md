@@ -7,7 +7,7 @@ This is a global illumination renderer through unbiased Monte Carlo ray tracing,
 ## Features
  
 * 仅使用C++标准库（含STL）完成
-* BRDF模型，以及蒙特卡洛Path tacing
+* BRDF模型，以及蒙特卡洛Path tracing
 * 能渲染标准模型，如平面，球体，长方体
 * 能读入标准obj模型文件，并进行处理和渲染
 * 使用包围盒，以及OpenMP技术来进行加速
